@@ -10,6 +10,7 @@ m=0
 s=0
 t="am"
 
+# a clock that tells time and can have an alarm on it by pressing a and filling out the information
 
 
 def current_time(h,m,s,t):
