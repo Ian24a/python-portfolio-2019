@@ -4,16 +4,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
 #Declare and Initialize Variables
 num_items= 100
 cost_per_item= 3.99
