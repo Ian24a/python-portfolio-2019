@@ -1,7 +1,7 @@
 # Ian Christensen
 #9/19
 #Cash Register Activity
-
+#This program is meant to take what you have and do math by number of items their cost and tax in a equation
 
 
 #Declare and Initialize Variables
