@@ -1,6 +1,8 @@
 #Ian Christensen
 #9/19
 #High Scores
+# a bunch of print statements that organize the score into columns
+
 
 # Player Names
 
